@@ -35,7 +35,7 @@ ddate.date(formatString, time)
 
 ### Features
 
-* x200 slower than os.date!
+* 200x slower than os.date!
 * Supports the 30th of february!
 
 ### Features missing
