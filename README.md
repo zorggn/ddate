@@ -33,6 +33,11 @@ ddate.date(formatString, time)
 * `%Y` Long year
 * `%%` Literal "%" Escape
 
+### Features
+
+* x200 slower than os.date!
+* Supports the 30th of february!
+
 ### Features missing
 
 * The `%c`, `%x` and `%X` flags are not locale-specific.
